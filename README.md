@@ -11,20 +11,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
+- 🎮 &nbsp; Unity
 -->
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying on youtube
-- 🌱 &nbsp; Currently Learning Blockchain Technology.
-- Open for project collaboration and internship opportunities. 
+- 🔭 &nbsp; Creating beautiful web Experiences 
+- 🌱 &nbsp; Studying Blockchain Technology
+- 🌱 &nbsp; Currently Learning AWS.
+- 👯 &nbsp; Open for project collaboration and internship opportunities. 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Javascript | Php 
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS
-- 🎮 &nbsp; Unity
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git | Postman API | Adobe XD | 
 
