@@ -16,17 +16,16 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Creating beautiful web Experiences 
-- 🌱 &nbsp; Studying Blockchain Technology
-- 🌱 &nbsp; Currently Learning AWS.
-- 👯 &nbsp; Open for project collaboration and internship opportunities. 
+- 🔭 &nbsp; I create beautiful web experiences
+- 🌱 &nbsp; Currently Learning AWS
+- 👯 &nbsp; Open for project collaboration and internship opportunities 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | Php 
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS
+- 🌐 &nbsp; HTML | CSS | Javascript | Php 
+- 💻 &nbsp; NodeJS | ReactJS | Laravel
 - 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Postman API | Adobe XD | 
+- 🔧 &nbsp; Git | Adobe XD  
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ileri-Arowolo&show_icons=true)
@@ -34,7 +33,7 @@ Here are some ideas to get you started:
 ### 📫🤝🏻 Connect with Me
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/ileriarowolo/) 👨🏻‍💻
- - Shoot Me an [Email](mailto:arowoloilerioluwa@gmail.com) 💌
+ - Send an [Email](mailto:arowoloilerioluwa@gmail.com) 💌
  - [GitHub Profile Summary](https://profile-summary-for-github.com/user/ileri-Arowolo)
 
 
