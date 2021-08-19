@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp; HTML | CSS | Javascript | Php 
-- 💻 &nbsp; NodeJS | ReactJS | Laravel
+- 💻 &nbsp; ReactJS | NodeJS | Laravel
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git | Adobe XD  
 
