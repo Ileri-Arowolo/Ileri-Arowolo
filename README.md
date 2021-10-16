@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is <em>Ileri</em> 👋
 
 <!--
 **onlyArsh/onlyArsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,20 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 - 🎮 &nbsp; Unity
+- 💻 &nbsp; Devops
+- 🔧 &nbsp; Git 
 -->
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 👨🏻‍💻I’m a Fullstack Dev. I enjoy building exceptional digital experiences. Currently, I’m focused on building accessible, human-centered Fintech Products at Loreon.</h3>
 
-- 🔭 &nbsp; I create beautiful web experiences
-- 🌱 &nbsp; Currently Learning AWS
-- 👯 &nbsp; Open for project collaboration and internship opportunities 
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | Javascript | Php 
-- 💻 &nbsp; ReactJS | NodeJS | Laravel
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Adobe XD  
+- 🌐 &nbsp; Javascript | React | Node.js
+
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ileri-Arowolo&show_icons=true)
