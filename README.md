@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🔧 &nbsp; Git 
 -->
 
-<h3> 👨🏻‍💻I’m a Fullstack Dev. I enjoy building exceptional digital experiences. Currently, I’m focused on building accessible, human-centered Fintech Products at Loreon.</h3>
+<h3> 👨🏻‍💻I’m a Fullstack Dev. I enjoy building exceptional digital experiences. Currently, I’m focused on building accessible, human-centered Fintech Products.</h3>
 
 
 <h3>🛠 Tech Stack</h3>
