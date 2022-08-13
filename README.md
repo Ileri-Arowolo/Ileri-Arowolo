@@ -3,20 +3,20 @@
 <!--
 **onlyArsh/onlyArsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-- 🔭 I’m currently working on 
+- 🔭 I’m currently transitioning into Product Management 
 - 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
+- 👯 I’m looking to collaborate on projects
+- 🤔 I’m looking for help with Devops study
 - 💬 Ask me about Blockchain, chess, football,
-- 📫 How to reach me: 
+- 📫 How to reach me: Twitter @I.dream.lucid
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm a chess master 🤓
 - 🎮 &nbsp; Unity
 - 💻 &nbsp; Devops
 - 🔧 &nbsp; Git 
 -->
 
-<h3> 👨🏻‍💻I’m a Fullstack Dev. I enjoy building exceptional digital experiences. Currently, I’m focused on building accessible, human-centered Fintech Products.</h3>
+<h3> 👨🏻‍💻I’m a Product Manager/Fullstack Dev. I enjoy building exceptional digital experiences. Currently, I’m focused on building accessible, human-centered Fintech Products.</h3>
 
 
 <h3>🛠 Tech Stack</h3>
