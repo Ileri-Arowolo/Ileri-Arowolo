@@ -1,5 +1,5 @@
 ### Hi, my name is <em>Ileri</em> 👋
-        👨🏻‍💻I’m a Devops Engr
+        ### I’m a Devops Engr <h2>👨🏻‍💻 </h2>
 <!--
 **Ileri-Arowolo/Ileri-Arowolo** is a ✨ _special_ ✨ repository because its `.
 Here are some ideas to get you started:
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 I optimize and automate critical multi-tier application deployments and Infrastructure provisioning, leveraging resources in AWS and Kubernetes administration while managing multiple projects and collaborating with cross-function engineering teams..</h3>
 
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Tool Stack</h3>
 
 - 💻 &nbsp; Terraform | Ansible | Kubernetes | Helm | Docker | Jenkins | Apache httpd | Nginx | HAProxy | Tomcat | Wildfly/JBoss |
 Nexus | Maven | SonarQube | Git/GitHub | New Relic | Prometheus | Grafana | ELK/EFK
