@@ -1,14 +1,14 @@
 ### Hi, my name is <em>Ileri</em> 👋
 
 <!--
-**onlyArsh/onlyArsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ileri-Arowolo/Ileri-Arowolo** is a ✨ _special_ ✨ repository because its `.
 Here are some ideas to get you started:
-- 🔭 I’m currently transitioning into Product Management 
-- 🌱 I’m currently learning Node.js
+- 🔭 I’m currently a Devops Engr
+- 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with Devops study
 - 💬 Ask me about Blockchain, chess, football,
-- 📫 How to reach me: Twitter @I.dream.lucid
+- 📫 How to reach me: Twitter @i_am_ileri
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a chess master 🤓
 - 🎮 &nbsp; Unity
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🔧 &nbsp; Git 
 -->
 
-<h3> 👨🏻‍💻I’m a Product Manager/Fullstack Dev. I enjoy building exceptional digital experiences. Currently, I’m focused on building accessible, human-centered Fintech Products.</h3>
+<h3> 👨🏻‍💻I’m a Devops Engr. I automate work loads.</h3>
 
 
 <h3>🛠 Tech Stack</h3>
