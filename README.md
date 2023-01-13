@@ -1,5 +1,5 @@
-### Hi, my name is <em>Ileri</em> 👋
-        ### I’m a Devops Engr <h2>👨🏻‍💻 </h2>
+### Hi, I’m a Devops Engr 👨🏻‍💻 <em>Ileri</em> 👋
+      
 <!--
 **Ileri-Arowolo/Ileri-Arowolo** is a ✨ _special_ ✨ repository because its `.
 Here are some ideas to get you started:
