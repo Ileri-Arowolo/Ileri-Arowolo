@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; Javascript | React | Node.js
+- 💻 &nbsp; Terraform | Ansible| Kubernetes| Helm | Docker| Jenkins| Apache httpd | Nginx | HAProxy | Tomcat | Wildfly/JBoss |
+Nexus | Maven | SonarQube | Git/GitHub | New Relic | Prometheus | Grafana | ELK/EFK
+
+
+- 🌐 &nbsp; Java | Node.js  
 
 
 
