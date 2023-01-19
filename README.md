@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🔧 &nbsp; Git 
 -->
 
-<h3>I optimize and automate critical multi-tier application deployments and Infrastructure provisioning, leveraging resources in AWS and Kubernetes administration while managing multiple projects and collaborating with cross-function engineering teams..</h3>
+<h3>I optimize and automate critical multi-tier application deployments and Infrastructure provisioning, leveraging resources in AWS and Kubernetes administration while managing multiple projects and collaborating with cross-functional engineering teams..</h3>
 
 
 <h3>🛠 Tool Stack</h3>
